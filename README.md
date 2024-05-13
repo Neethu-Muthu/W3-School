@@ -22,7 +22,7 @@ The project structure is organized as follows:
 
 - Clone the repository to your local machine:
 git clone <repository_url>
-- Open the 'w3.html' file in your web browser to view the website.
+- Open the `w3.html` file in your web browser to view the website.
 ## Usage
 Once the project is set up, you can navigate through the website to access various tutorials, exercises, and certifications. Use the navigation bar to explore different topics and find resources tailored to your learning needs.
 
